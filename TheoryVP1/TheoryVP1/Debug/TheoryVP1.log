@@ -1,0 +1,4 @@
+﻿  TheoryVP1.cpp
+C:\Users\Admin\source\repos\TheoryVP1\TheoryVP1\TheoryVP1.cpp(27,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\source\repos\TheoryVP1\TheoryVP1\TheoryVP1.cpp(41,21): warning C4018: <: несоответствие типов со знаком и без знака
+  TheoryVP1.vcxproj -> C:\Users\Admin\source\repos\TheoryVP1\Debug\TheoryVP1.exe
